@@ -11,6 +11,7 @@ from cryptography.x509.oid import NameOID
 import datetime
 import os
 import struct
+#author: escape
 
 separator = "|||".encode('utf-8')  # Define a separator for message parts
 
