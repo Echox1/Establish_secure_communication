@@ -1,6 +1,7 @@
 import socket
 import threading
 import Public
+#author: escape
 
 
 # Define a separator for splitting data in messages
