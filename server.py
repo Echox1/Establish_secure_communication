@@ -3,6 +3,8 @@ import threading
 import os
 import Public
 from threading import Lock
+#author: escape
+
 
 lock = Lock()
 # Define a separator for message parsing
